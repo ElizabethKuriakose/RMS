@@ -1,4 +1,4 @@
 export const environment = {
-    production: true,
-    APIBasePath: ''
-  };
+  production: true,
+  APIBasePath: ''
+};

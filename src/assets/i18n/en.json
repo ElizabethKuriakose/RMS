@@ -8,5 +8,7 @@
       "PLACEHOLDERS": {},
       "TITLE": {},
       "TOOLTIP": {}
-    }
+    },
+    "HELLO": "hello {{value}}"
   }
+  

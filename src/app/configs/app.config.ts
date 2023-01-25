@@ -1,14 +1,12 @@
 import { Injectable } from "@angular/core";
 
-
 @Injectable({
-    providedIn: 'root',
-  })
+  providedIn: 'root',
+})
 
 export class Constants {
-    defaultLanguage: string;
-
-    constructor() {
-      this.defaultLanguage = 'en';
-    }
+  defaultLanguage: string;
+  constructor() {
+    this.defaultLanguage = 'en';
+  }
 }
